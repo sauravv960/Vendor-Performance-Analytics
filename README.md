@@ -53,7 +53,5 @@ The solution transforms raw CSV transactional data into meaningful business insi
 
 ## 📊 Dashboard Preview
 
-*(Add your dashboard screenshots inside a folder named `screenshots/` and link them below)*
+![Vendor Performance Dashboard](screenshots/dashboard.png)
 
-```markdown
-![Dashboard Overview](screenshots/dashboard.png)
